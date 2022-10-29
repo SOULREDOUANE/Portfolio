@@ -54,3 +54,12 @@ textarea{
     border: gray;
     background-color:rgb(231, 231, 231) ;
 }
+.telecharger{
+    width: 30%;
+    margin-left: 30%;
+    color: white;
+    background-color: rgb(29, 199, 29);
+    height: 50px;
+    border-radius: 10px;
+    border: green;
+}
